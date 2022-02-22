@@ -45,7 +45,7 @@ For more information, you may visit this link so you may fully understand the co
 
 Texture is the feel, appearance, or consistency of a surface or object, in case you didn't already know. Rocks have a rough texture, whereas silk has a smooth texture, wood is hard, whereas pillows are soft, and so on. Texturing an object in a drawing is actually quite difficult; however, one simple trick for adding texture is to use shading techniques.
 
-For more information, you may visit this link so you may fully understand the concept of Composition: [Drawing Fundamentals: TEXTURE](https://www.youtube.com/watch?v=qsSYPWOINcQ)
+For more information, you may visit this link so you may fully understand the concept of Texture: [Drawing Fundamentals: TEXTURE](https://www.youtube.com/watch?v=qsSYPWOINcQ)
 
 ### 5. Lines
 ![Lines](https://user-images.githubusercontent.com/99783855/155146107-e9fd3039-1924-47e1-8557-2e5a6ece0251.jpg)
@@ -57,7 +57,7 @@ For more information, you may visit this link so you may fully understand the co
 ### 6. Anatomy
 ![Anatomy](https://user-images.githubusercontent.com/99783855/155146160-b34c694c-a816-49e4-8ba0-9792d0c47ca0.jpg)
 
-Anatomy has long been regarded as one of the most difficult subjects for many artists to fully grasp. However, in order to fully comprehend it, you must first understand the human body, as this will come in handy when drawing character designs, comics, portraits, and so on. Here are the key differences between male and female anatomy: men's torsos are typically larger than female torsos, men's shoulders are wider than women's shoulders, women's waists are smaller than men, women's hips are wider than men, and men are generally larger than women. And the following are the key similarities between male and female anatomy: the arms usually bend at the stomach and the wrists end up near the hip, and the average person stands 7 to 7.5 feet tall.
+Anatomy has long been regarded as one of the most difficult subjects for many artists to fully grasp. However, in order to fully comprehend it, you must first understand the human body, as this will come in handy when drawing character designs, comics, portraits, and so on. Here are the key differences between male and female anatomy: men's torsos are typically larger than female torsos, men's shoulders are wider than women's shoulders, women's waists are smaller than men, women's hips are wider than men, and men are generally larger than women. And the following are the key similarities between male and female anatomy: the arms usually bend at the stomach and the wrists end up near the hip, and the average person stands 7 to 7.5 heads tall.
 
 For more information, you may visit this link so you may fully understand the concept of Anatomy: [How to draw the Human Figure - Body Construction tutorial](https://www.youtube.com/watch?v=w2fKxNDsXuw)
 
@@ -87,7 +87,7 @@ For more information, you may visit this link so you may fully understand the co
 
 Highlights are caused by light striking and reflecting an object or a person, whereas shadows are caused by a lack of light striking a specific area of an object or a person. And these two fall under the Values category, which defines how light or dark a given color or hue can be. A light source is required in order to create highlights and shadows in your drawing. If you have a sphere and the light source is at the top-right, the highlights must also be at the top-right, and it will gradually get darker as it moves towards the lower-left.
 
-For more information, you may visit this link so you may fully understand the concept of Perspective: [Light and Shadow - 10 Minutes To Better Painting - Episode 6](https://www.youtube.com/watch?v=xcCJ2CU-bFw)
+For more information, you may visit this link so you may fully understand the concept of Highlights and Shadows: [Light and Shadow - 10 Minutes To Better Painting - Episode 6](https://www.youtube.com/watch?v=xcCJ2CU-bFw)
 
 ### Source:
 
