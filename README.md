@@ -1,7 +1,6 @@
 # HOW TO IMPROVE YOUR ART
 A guide for drastically improving your art 
 
-
 ## **INTRODUCTION TO ART**
 There are countless definitions of art, but for me, it is the creative expression of one’s self. It may be in the form of drawings, paintings, music, sculptures, poetry, and etc. But we will be focusing on how to draw.
 
