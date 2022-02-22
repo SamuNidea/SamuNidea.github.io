@@ -104,3 +104,4 @@ For more information, you may visit this link so you may fully understand the co
 
 ### links:
 [`Facebook`](https://www.facebook.com/samuelivan.alcantaranidea/)
+[`Sir Gain's Github Page`](https://641n.github.io/computer-9/)
