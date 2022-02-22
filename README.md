@@ -90,7 +90,7 @@ Highlights are caused by light striking and reflecting an object or a person, wh
 
 For more information, you may visit this link so you may fully understand the concept of Perspective: [Light and Shadow - 10 Minutes To Better Painting - Episode 6](https://www.youtube.com/watch?v=xcCJ2CU-bFw)
 
-###Source:
+### Source:
 
 1. [Basic Shapes](https://www.istockphoto.com/vector/geometric-shapes-with-labels-set-of-14-basic-shapes-simple-flat-vector-illustration-gm1270144089-373203953)
 2. [Form](https://cryptocomics.com/blog/C/2020/10/22/Fundamentals-of-Comic-Book-Art-Part-2-Construction-767)
