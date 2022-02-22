@@ -92,13 +92,13 @@ For more information, you may visit this link so you may fully understand the co
 
 ###Source:
 
-1. Basic Shapes: [link](https://www.istockphoto.com/vector/geometric-shapes-with-labels-set-of-14-basic-shapes-simple-flat-vector-illustration-gm1270144089-373203953)
-2. Form: [link](https://cryptocomics.com/blog/C/2020/10/22/Fundamentals-of-Comic-Book-Art-Part-2-Construction-767)
-3. Composition: [link](https://www.artstation.com/learning/courses/VK3/composition-in-painting)
-4. Texture: [link](https://www.pinterest.com/pin/528398968767286269/)
-5. Lines: [link](https://stock.adobe.com/ph/images/type-of-lines-in-art/200339857)
-6. Anatomy: [link](https://www.pinterest.ch/pin/205828645449442005/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&simplified=true)
-7. Proportions: [link](https://www.pinterest.com/pin/281193570455271214/?d=t&mt=login)
-8. Color Theory: [link](https://uxplanet.org/analogous-colors-and-color-wheel-609a05b5b90e)
-9. Perspective: [link](https://stock.adobe.com/images/sketch-interior-perspective-bath-room-black-and-white-interior-design/119724925)
-10. Highlights and Shadows: [link](https://tsafallbeginningdrawing.wordpress.com/2013/11/14/value-and-rounded-volume/)
+1. [Basic Shapes](https://www.istockphoto.com/vector/geometric-shapes-with-labels-set-of-14-basic-shapes-simple-flat-vector-illustration-gm1270144089-373203953)
+2. [Form](https://cryptocomics.com/blog/C/2020/10/22/Fundamentals-of-Comic-Book-Art-Part-2-Construction-767)
+3. [Composition](https://www.artstation.com/learning/courses/VK3/composition-in-painting)
+4. [Texture](https://www.pinterest.com/pin/528398968767286269/)
+5. [Lines](https://stock.adobe.com/ph/images/type-of-lines-in-art/200339857)
+6. [Anatomy](https://www.pinterest.ch/pin/205828645449442005/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&simplified=true)
+7. [Proportions](https://www.pinterest.com/pin/281193570455271214/?d=t&mt=login)
+8. [Color Theory](https://uxplanet.org/analogous-colors-and-color-wheel-609a05b5b90e)
+9. [Perspective](https://stock.adobe.com/images/sketch-interior-perspective-bath-room-black-and-white-interior-design/119724925)
+10. [Highlights and Shadows](https://tsafallbeginningdrawing.wordpress.com/2013/11/14/value-and-rounded-volume/)
